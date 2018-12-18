@@ -21,3 +21,7 @@ rdir.c compile and send to 192.168.1.1 to execute rdir.c with argument /etc
 (rdir will recusively enumeration directory at /etc)
 
 python main.py 192.168.1.1 rdir /etc
+
+# detail
+
+http://kinmeniotfirmwaresecurity.blogspot.com/2018/12/router-ghost-possiblity-of-0day-remote.html
