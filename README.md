@@ -27,5 +27,6 @@ python main.py 192.168.1.1 rdir /etc
 remote 0day discovery/analysis:
 http://kinmeniotfirmwaresecurity.blogspot.com/2018/12/router-ghost-possiblity-of-0day-remote.html
 
-remote firmware/kernel hacking
+remote firmware/kernel hacking:
+
 http://kinmeniotfirmwaresecurity.blogspot.com/2019/01/deep-look-at-router-0-day.html
